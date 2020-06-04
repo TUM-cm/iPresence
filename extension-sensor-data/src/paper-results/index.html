@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>Proximityness</title>
+</head>
+
+<body>
+<h1>Data Collection: Proximityness</h1>
+<p><strong>Contact <a href="mailto:haus@in.tum.de">Michael Haus</a> for technical support</strong></p>
+<p><strong>Clearance for public release of dataset has been granted</strong></p>
+
+<h2>Introduction</h2>
+<p>We conducted a study with 126 subjects, over three months, collecting data from various sensors, that resulted in a multimodal dataset for co-presence detection.</p>
+<p>The collected study data from mobile devices:</p>
+<table border=1>
+    <tr>
+        <th>Data characteristic</th>
+        <th>Sampling rate</th>
+        <th>Study data</th>
+    </tr>
+    <tr>
+        <td>User activity</td>
+        <td>5 s</td>
+        <td>(Linear) accelerometer</td>
+    </tr>
+    <tr>
+        <td>User position</td>
+        <td>5 min</td>
+        <td>GPS, network</td>
+    </tr>
+    <tr>
+        <td>User environment</td>
+        <td>5 min</td>
+        <td>Barometer, magnetometer, temperature, light,  gravity, gyroscope, rotation, GSM towers, Bluetooth and Wi-Fi devices</td>
+    </tr>
+</table>
+<p>We publish a subset of the original data set in the period between 01.06.2018 and 15.06.2018 including Wi-Fi scans as proximity verification set, magnetometer as sensor data, the positions of Wi-Fi access points, and magnetometer's sensor hardware.</p>
+
+<h2>Data Description</h2>
+<p>Detailed description of the data is presented below:</p>
+<ul>
+<li><strong><a href="./proximity_verification_set_wifi.csv.gz">proximity_verification_set_wifi.csv.gz</a></strong> contains the scans of Wi-Fi access points including mobile device's id, relative time, and BSSID.<br>
+We have anonymized the device id and BSSID with substitute identifier. In addition, we converted the absolute timestamp to a relative time using a time reference point.</li>
+<p>
+<li><strong> <a href="./proximity_verification_set_wifi_positions.csv.gz">proximity_verification_set_wifi_positions.csv.gz</a></strong> contains the positions of Wi-Fi access points including BBSID and relative position.<br>
+We have anonymized the BSSID and coordinates of Wi-Fi access points with substitute identifier.</li>
+<p>
+<li><strong><a href="./sensor_data_magnetometer.csv.gz">sensor_data_magnetometer.csv.gz</a></strong> contains the magnetometer's sensor data including mobile device's id, relative time, and x, y, z of magnetometer sensor.<br>
+We have anonymized the device id with substitute identifier and converted the absolute timestamp to a relative time using a time reference point.</li>
+<p>
+<li><strong><a href="./sensor_hardware_magnetometer.csv.gz">sensor_hardware_magnetometer.csv.gz</a></strong> contains the magnetometer's sensor hardware including mobile device's id and hardware of magnetometer sensor.<br>
+We have anonymized the device id and sensor hardware with substitute identifier.</li>
+</ul>
+
+<h2>How to Cite</h2>
+M. Haus, A. Y. Ding, and J. Ott, &quot;Multimodal Co-Presence Detection with Varying Spatio-Temporal Granularity,&quot;
+in <i>Proceedings of the IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops)</i>, 2020, pp. 1-7.
+
+</body>
+</html>

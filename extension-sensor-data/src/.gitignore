@@ -1,0 +1,5 @@
+accelerometer.parquet.snappy
+magnetometer.parquet.snappy
+dataset-generation/snappy-parts
+dataset-generation/sql-parts
+dataset-generation/sql
