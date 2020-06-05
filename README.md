@@ -1,5 +1,5 @@
 # iPresence: Co-Presence Reasoning using Visible Light and Sensor Data
-PhD thesis "Edge-Driven Proximity Service Platform for the Internet of Things in Indoor Environments" of Michael Haus
+PhD thesis *Edge-Driven Proximity Service Platform for the Internet of Things in Indoor Environments* of Michael Haus
 
 This repository addresses the RQ1 of the research problem:<br/>
 **How to efficiently determine the spatial proximity of users without disclosing their locations?**
