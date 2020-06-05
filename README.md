@@ -4,8 +4,7 @@ Co-Presence Reasoning using Visible Light and Sensor Data
 For the PhD thesis "Edge-Driven Proximity Service Platform for the Internet of Things in Indoor Environments" of Michael Haus
 
 This repository addresses the following question of the research problem:
-How to determine the spatial proximity of users without disclosing their locations to enable user-oriented and privacy-aware services?
-TODO add RQ3
+RQ1: How to efficiently determine the spatial proximity of users without disclosing their locations?
 
 We begin addressing this question by building LocalVLC, a system for VLC that we use as the building block for our further work.
 We present the design and implementation of a 3D printed custom light bulb with a dedicated modulation scheme for VLC inspired
@@ -18,5 +17,3 @@ where we adopted a master-slave principle to form semantic subnetworks to cover 
 As a result, we can control the spatial granularity of user proximity to overcome the main disadvantage of location tags:
 where users have no control over the spatial granularity of proximity because the neighborhood is entirely dependent on the type of 
 location tag.
-
-TODO add services
