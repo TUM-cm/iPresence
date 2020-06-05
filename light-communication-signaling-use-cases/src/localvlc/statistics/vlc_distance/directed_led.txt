@@ -1,0 +1,17 @@
+### Throughput
+num: 150
+min. 440.04
+max: 680.54
+median: 519.17
+mean: 514.95
+std: 24.73
+var: 611.7
+------------------------
+### Error
+num: 150
+min. 0.0
+max: 0.25
+median: 0.0
+mean: 0.02
+std: 0.05
+var: 0.0

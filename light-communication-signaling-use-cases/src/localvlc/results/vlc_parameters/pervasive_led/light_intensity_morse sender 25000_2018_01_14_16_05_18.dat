@@ -1,0 +1,2486 @@
+[
+  {
+    "intensity": 2.6517239,
+    "timestamp": 1515941320
+  },
+  {
+    "intensity": 2.478336,
+    "timestamp": 1515941320
+  },
+  {
+    "intensity": 3.1991858,
+    "timestamp": 1515941320
+  },
+  {
+    "intensity": 2.8251107,
+    "timestamp": 1515941321
+  },
+  {
+    "intensity": 2.8288004,
+    "timestamp": 1515941321
+  },
+  {
+    "intensity": 3.0235846,
+    "timestamp": 1515941321
+  },
+  {
+    "intensity": 3.1991858,
+    "timestamp": 1515941321
+  },
+  {
+    "intensity": 2.478336,
+    "timestamp": 1515941322
+  },
+  {
+    "intensity": 4.171632,
+    "timestamp": 1515941322
+  },
+  {
+    "intensity": 3.9945552,
+    "timestamp": 1515941322
+  },
+  {
+    "intensity": 3.8211677,
+    "timestamp": 1515941322
+  },
+  {
+    "intensity": 3.9945552,
+    "timestamp": 1515941323
+  },
+  {
+    "intensity": 3.8211677,
+    "timestamp": 1515941324
+  },
+  {
+    "intensity": 3.6477802,
+    "timestamp": 1515941526
+  },
+  {
+    "intensity": 3.8211677,
+    "timestamp": 1515941526
+  },
+  {
+    "intensity": 3.6477802,
+    "timestamp": 1515941527
+  },
+  {
+    "intensity": 3.8211677,
+    "timestamp": 1515941528
+  },
+  {
+    "intensity": 3.6477802,
+    "timestamp": 1515941529
+  },
+  {
+    "intensity": 3.8211677,
+    "timestamp": 1515941529
+  },
+  {
+    "intensity": 3.6477802,
+    "timestamp": 1515941529
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941540
+  },
+  {
+    "intensity": 3.6477802,
+    "timestamp": 1515941540
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941541
+  },
+  {
+    "intensity": 3.6477802,
+    "timestamp": 1515941541
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941543
+  },
+  {
+    "intensity": 3.6477802,
+    "timestamp": 1515941543
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941544
+  },
+  {
+    "intensity": 3.6477802,
+    "timestamp": 1515941544
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941544
+  },
+  {
+    "intensity": 3.6477802,
+    "timestamp": 1515941545
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941546
+  },
+  {
+    "intensity": 3.6477802,
+    "timestamp": 1515941546
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941547
+  },
+  {
+    "intensity": 3.6477802,
+    "timestamp": 1515941547
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941547
+  },
+  {
+    "intensity": 3.6477802,
+    "timestamp": 1515941547
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941548
+  },
+  {
+    "intensity": 3.6477802,
+    "timestamp": 1515941548
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941548
+  },
+  {
+    "intensity": 3.6477802,
+    "timestamp": 1515941548
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941549
+  },
+  {
+    "intensity": 3.6477802,
+    "timestamp": 1515941549
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941550
+  },
+  {
+    "intensity": 3.6477802,
+    "timestamp": 1515941550
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941550
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941552
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941552
+  },
+  {
+    "intensity": 3.6477802,
+    "timestamp": 1515941553
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941553
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941554
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941554
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941555
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941555
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941555
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941555
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941556
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941556
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941556
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941557
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941557
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941558
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941558
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941559
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941559
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941561
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941561
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941561
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941561
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941562
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941562
+  },
+  {
+    "intensity": 3.799771,
+    "timestamp": 1515941563
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941563
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941563
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941564
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941564
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941564
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941565
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941565
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941566
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941566
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941567
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941568
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941568
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941569
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941569
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941570
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941570
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941571
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941571
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941572
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941572
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941572
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941572
+  },
+  {
+    "intensity": 4.1701565,
+    "timestamp": 1515941574
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941574
+  },
+  {
+    "intensity": 3.644091,
+    "timestamp": 1515941585
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941585
+  },
+  {
+    "intensity": 3.644091,
+    "timestamp": 1515941585
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941585
+  },
+  {
+    "intensity": 3.644091,
+    "timestamp": 1515941587
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941587
+  },
+  {
+    "intensity": 3.644091,
+    "timestamp": 1515941588
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941589
+  },
+  {
+    "intensity": 3.644091,
+    "timestamp": 1515941589
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941589
+  },
+  {
+    "intensity": 3.644091,
+    "timestamp": 1515941590
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941590
+  },
+  {
+    "intensity": 3.644091,
+    "timestamp": 1515941590
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941590
+  },
+  {
+    "intensity": 3.644091,
+    "timestamp": 1515941590
+  },
+  {
+    "intensity": 3.817478,
+    "timestamp": 1515941591
+  },
+  {
+    "intensity": 3.644091,
+    "timestamp": 1515941591
+  },
+  {
+    "intensity": 3.4707034,
+    "timestamp": 1515941644
+  },
+  {
+    "intensity": 3.644091,
+    "timestamp": 1515941644
+  },
+  {
+    "intensity": 3.4707034,
+    "timestamp": 1515941644
+  },
+  {
+    "intensity": 3.644091,
+    "timestamp": 1515941645
+  },
+  {
+    "intensity": 3.4707034,
+    "timestamp": 1515941645
+  },
+  {
+    "intensity": 3.644091,
+    "timestamp": 1515941646
+  },
+  {
+    "intensity": 3.4707034,
+    "timestamp": 1515941646
+  },
+  {
+    "intensity": 3.644091,
+    "timestamp": 1515941647
+  },
+  {
+    "intensity": 3.4707034,
+    "timestamp": 1515941647
+  },
+  {
+    "intensity": 3.644091,
+    "timestamp": 1515941648
+  },
+  {
+    "intensity": 3.4707034,
+    "timestamp": 1515941648
+  },
+  {
+    "intensity": 3.644091,
+    "timestamp": 1515941648
+  },
+  {
+    "intensity": 3.4707034,
+    "timestamp": 1515941649
+  },
+  {
+    "intensity": 3.644091,
+    "timestamp": 1515941649
+  },
+  {
+    "intensity": 3.4707034,
+    "timestamp": 1515941650
+  },
+  {
+    "intensity": 3.644091,
+    "timestamp": 1515941650
+  },
+  {
+    "intensity": 3.4707034,
+    "timestamp": 1515941650
+  },
+  {
+    "intensity": 3.644091,
+    "timestamp": 1515941657
+  },
+  {
+    "intensity": 3.4707034,
+    "timestamp": 1515941657
+  },
+  {
+    "intensity": 3.6226938,
+    "timestamp": 1515941738
+  },
+  {
+    "intensity": 3.4707034,
+    "timestamp": 1515941738
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941739
+  },
+  {
+    "intensity": 3.4707034,
+    "timestamp": 1515941739
+  },
+  {
+    "intensity": 3.6226938,
+    "timestamp": 1515941740
+  },
+  {
+    "intensity": 3.4707034,
+    "timestamp": 1515941740
+  },
+  {
+    "intensity": 3.297316,
+    "timestamp": 1515941741
+  },
+  {
+    "intensity": 3.4707034,
+    "timestamp": 1515941741
+  },
+  {
+    "intensity": 3.297316,
+    "timestamp": 1515941742
+  },
+  {
+    "intensity": 3.4707034,
+    "timestamp": 1515941742
+  },
+  {
+    "intensity": 3.297316,
+    "timestamp": 1515941743
+  },
+  {
+    "intensity": 3.4707034,
+    "timestamp": 1515941743
+  },
+  {
+    "intensity": 3.6226938,
+    "timestamp": 1515941743
+  },
+  {
+    "intensity": 3.4707034,
+    "timestamp": 1515941744
+  },
+  {
+    "intensity": 3.297316,
+    "timestamp": 1515941744
+  },
+  {
+    "intensity": 3.6226938,
+    "timestamp": 1515941745
+  },
+  {
+    "intensity": 3.297316,
+    "timestamp": 1515941745
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941745
+  },
+  {
+    "intensity": 3.9930792,
+    "timestamp": 1515941746
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941746
+  },
+  {
+    "intensity": 3.6226938,
+    "timestamp": 1515941746
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941746
+  },
+  {
+    "intensity": 3.297316,
+    "timestamp": 1515941747
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941747
+  },
+  {
+    "intensity": 3.6677015,
+    "timestamp": 1515941747
+  },
+  {
+    "intensity": 3.297316,
+    "timestamp": 1515941747
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941748
+  },
+  {
+    "intensity": 3.4707034,
+    "timestamp": 1515941748
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941748
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941748
+  },
+  {
+    "intensity": 3.297316,
+    "timestamp": 1515941748
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941749
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941749
+  },
+  {
+    "intensity": 3.297316,
+    "timestamp": 1515941749
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941750
+  },
+  {
+    "intensity": 3.6677015,
+    "timestamp": 1515941750
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941750
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941750
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941750
+  },
+  {
+    "intensity": 3.297316,
+    "timestamp": 1515941751
+  },
+  {
+    "intensity": 3.6226938,
+    "timestamp": 1515941751
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941751
+  },
+  {
+    "intensity": 3.6677015,
+    "timestamp": 1515941752
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941752
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941752
+  },
+  {
+    "intensity": 3.297316,
+    "timestamp": 1515941752
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941753
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941753
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941753
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941753
+  },
+  {
+    "intensity": 3.6677015,
+    "timestamp": 1515941753
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941754
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941754
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941754
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941755
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941755
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941755
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941755
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941756
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941756
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941758
+  },
+  {
+    "intensity": 3.6677015,
+    "timestamp": 1515941758
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941758
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941758
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941759
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941759
+  },
+  {
+    "intensity": 3.6677015,
+    "timestamp": 1515941760
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941760
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941761
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941761
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515941765
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941765
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515941775
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941775
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515941777
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941778
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515941778
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941778
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515941779
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941779
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515941780
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941780
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515941780
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941780
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515941780
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941781
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515941781
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941781
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515941782
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941782
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515941782
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941782
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515941783
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941783
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515941783
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941784
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515941785
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941787
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515941787
+  },
+  {
+    "intensity": 3.8196921,
+    "timestamp": 1515941788
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515941788
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515941837
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515941837
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515941838
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515941839
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515941839
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515941840
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515941840
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941890
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515941890
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941890
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515941890
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941891
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515941891
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941892
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515941893
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941893
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515941894
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941894
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515941895
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941895
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515941896
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941896
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941923
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941923
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941923
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941923
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941926
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941926
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941929
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941929
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941930
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941930
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941932
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941932
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941933
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941933
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941933
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941934
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941934
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941934
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941935
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941935
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941935
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941936
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941937
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941938
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941938
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941938
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941939
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941939
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941939
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941940
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941940
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941943
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941943
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941944
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941944
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941945
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941945
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941949
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941949
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941950
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941950
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941952
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941952
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941957
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941958
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941958
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941958
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515941960
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941961
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515941968
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941968
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515941970
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941970
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515941971
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941971
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515941972
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941972
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515941973
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941973
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515941976
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941976
+  },
+  {
+    "intensity": 3.2899375,
+    "timestamp": 1515941977
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941977
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515941977
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941977
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515941979
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941979
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515941979
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941979
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515941981
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941981
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515941982
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941982
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515941984
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941985
+  },
+  {
+    "intensity": 3.2899375,
+    "timestamp": 1515941986
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941986
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515941987
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941987
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515941989
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941989
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515941992
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941992
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515941993
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941993
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515941995
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515941995
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515942000
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942000
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515942000
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942000
+  },
+  {
+    "intensity": 3.6426153,
+    "timestamp": 1515942003
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942003
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942004
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942004
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942004
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942005
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942006
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942007
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942008
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942008
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942009
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942009
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942009
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942009
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942011
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942011
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942011
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942012
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942012
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942012
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942013
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942013
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942013
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942013
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942014
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942014
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942014
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942015
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942015
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942015
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942016
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942016
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942016
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942019
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942019
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942019
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942019
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942020
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942021
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942021
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942021
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942022
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942022
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942022
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942023
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942023
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942023
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942024
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942024
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942025
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942025
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942025
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942026
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942026
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942026
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942027
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942027
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942028
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942028
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942029
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942029
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942030
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942030
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942031
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942031
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942032
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942033
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942033
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942033
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942038
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942038
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942039
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942039
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942043
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942044
+  },
+  {
+    "intensity": 3.4906247,
+    "timestamp": 1515942049
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942049
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515942091
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942091
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515942092
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942092
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515942093
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942093
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515942094
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942094
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515942095
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942095
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515942095
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942097
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515942097
+  },
+  {
+    "intensity": 3.1202393,
+    "timestamp": 1515942097
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515942098
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942151
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515942151
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942152
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515942152
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942153
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515942155
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942155
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942180
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942180
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942181
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942181
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942182
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942182
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942184
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942184
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942184
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942185
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942185
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942186
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942187
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942187
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942187
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942187
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942188
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942189
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942189
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942190
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942190
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942191
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942191
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942191
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942191
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942192
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942192
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942193
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942193
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942194
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942194
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942195
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942195
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942195
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942195
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942196
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942196
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942197
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942197
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942197
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942197
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942198
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942198
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942198
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942199
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942199
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942199
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942200
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942201
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942201
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942202
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942203
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942203
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942204
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942204
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942204
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942205
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942206
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942206
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942206
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942207
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942207
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942207
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942207
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942208
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942209
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942209
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942209
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942210
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942211
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942211
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942211
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942213
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942213
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942213
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942214
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942214
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942214
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942214
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942214
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942217
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942217
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942219
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942219
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942220
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942220
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942221
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942221
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942222
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942222
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942223
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942223
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942225
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942225
+  },
+  {
+    "intensity": 3.6226938,
+    "timestamp": 1515942228
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942228
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942231
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942231
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942232
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942232
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942233
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942233
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942235
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942235
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942236
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942236
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942237
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942237
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942238
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942238
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942239
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942239
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942239
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942239
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942240
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942241
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942242
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942242
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942242
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942243
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942243
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942244
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942244
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942245
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942245
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942245
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942245
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942245
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942246
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942246
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942247
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942249
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942249
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942249
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942250
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942251
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942251
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942254
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942254
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942256
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942256
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942259
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942259
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942261
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942262
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942262
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942262
+  },
+  {
+    "intensity": 3.4493065,
+    "timestamp": 1515942262
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942263
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942263
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942263
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942263
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942263
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942264
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942264
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942264
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942264
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942265
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942265
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942265
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942266
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942266
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942266
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942268
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942268
+  },
+  {
+    "intensity": 3.0966287,
+    "timestamp": 1515942269
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942269
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515942286
+  },
+  {
+    "intensity": 3.4670143,
+    "timestamp": 1515942287
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515942287
+  },
+  {
+    "intensity": 3.4456174,
+    "timestamp": 1515942291
+  },
+  {
+    "intensity": 3.2936265,
+    "timestamp": 1515942291
+  },
+  {
+    "intensity": 3.644091,
+    "timestamp": 1515942292
+  },
+  {
+    "intensity": 3.973158,
+    "timestamp": 1515942292
+  },
+  {
+    "intensity": 3.6404018,
+    "timestamp": 1515942292
+  },
+  {
+    "intensity": 1.5804093,
+    "timestamp": 1515942292
+  },
+  {
+    "intensity": 2.435542,
+    "timestamp": 1515942293
+  }
+]

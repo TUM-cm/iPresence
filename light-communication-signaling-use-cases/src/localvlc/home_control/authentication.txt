@@ -1,0 +1,8 @@
+Authentication flow
+
+1. Smartphone calls evaluateAuthentication at flask home control
+2. Home control sends nonce and waits for response
+3. Smartphone receives nonce, increment nonce and encrypts nonce using light token (flask light receiver)
+4. Smartphone sends encrypted nonce to home control ((onGetEncryptedData)
+5. Home control receives encrypted nonce, increment nonce, encrypt and compares encrypted nonce with
+received encrypted nonce

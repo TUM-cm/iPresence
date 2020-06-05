@@ -1,0 +1,7 @@
+num: 864
+min. 8.01
+max: 11.74
+median: 10.14
+mean: 10.04
+std: 0.97
+var: 0.94

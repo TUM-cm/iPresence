@@ -1,0 +1,7 @@
+num: 1211
+min. 7.68
+max: 9.78
+median: 8.91
+mean: 8.96
+std: 0.42
+var: 0.18

@@ -1,0 +1,29 @@
+LED: http://www.dummies.com/computers/beaglebone/setting-beaglebone-gpios-as-outputs/
+
+# low power led
+
+* pin anode: 60
+* pin cathode: 50
+
+cd /sys/class/gpio
+echo 60 > export
+cd gpio60
+echo out > direction # enable write
+echo 1 > value # on
+echo 0 > value # off
+echo 60 > unexport # remove access to gpio
+
+# high power led
+
+* pin 49
+
+cd /sys/class/gpio
+echo 49 > export
+cd gpio49
+echo out > direction
+echo 1 > value
+echo 0 > value
+echo 49 > unexport
+
+gpio control: https://github.com/vitiral/gpio
+python setup.py install

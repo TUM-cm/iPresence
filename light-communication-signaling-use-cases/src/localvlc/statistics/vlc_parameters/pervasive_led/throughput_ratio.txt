@@ -1,0 +1,19 @@
+### Morse
+morse_sampling_30000_time_base_unit_50000
+num: 10
+min. 1422.15
+max: 1425.91
+median: 1422.38
+mean: 1423.35
+std: 1.57
+var: 2.46
+### Manchester
+manchester_freq_50
+num: 10
+min. 341.61
+max: 377.83
+median: 364.42
+mean: 361.91
+std: 12.61
+var: 158.9
+ratio: 3.93

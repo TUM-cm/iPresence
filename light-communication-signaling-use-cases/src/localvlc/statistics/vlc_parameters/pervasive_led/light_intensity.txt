@@ -1,0 +1,7 @@
+num: 5175
+min. 0.5
+max: 10.56
+median: 5.03
+mean: 4.45
+std: 2.07
+var: 4.28

@@ -1,0 +1,18 @@
+manchester_freq_50
+
+### Throughput ###
+num: 10
+min. 341.61
+max: 377.83
+median: 364.42
+mean: 361.91
+std: 12.61
+var: 158.9
+### Error rate ###
+num: 10
+min. 0.0
+max: 0.0
+median: 0.0
+mean: 0.0
+std: 0.0
+var: 0.0

@@ -1,0 +1,53 @@
+### led: pervasive_led
+token period: 5
+# authorization
+success: 4198, ratio: 0.8396
+fail: 802, ratio: 0.1604
+# duration success
+num: 4198
+min. 0.18
+max: 0.4
+median: 0.2
+mean: 0.2
+std: 0.01
+var: 0.0
+----------------------------------
+token period: 10
+# authorization
+success: 4573, ratio: 0.9146
+fail: 427, ratio: 0.0854
+# duration success
+num: 4573
+min. 0.18
+max: 0.64
+median: 0.19
+mean: 0.2
+std: 0.01
+var: 0.0
+----------------------------------
+token period: 30
+# authorization
+success: 4859, ratio: 0.9718
+fail: 141, ratio: 0.0282
+# duration success
+num: 4859
+min. 0.18
+max: 0.65
+median: 0.19
+mean: 0.2
+std: 0.01
+var: 0.0
+----------------------------------
+token period: 60
+# authorization
+success: 4937, ratio: 0.9874
+fail: 63, ratio: 0.0126
+# duration success
+num: 4937
+min. 0.18
+max: 0.65
+median: 0.19
+mean: 0.2
+std: 0.01
+var: 0.0
+----------------------------------

@@ -1,0 +1,18 @@
+morse_sampling_50000_time_base_unit_130000_directed_led_orientation_down
+
+### Throughput ###
+num: 10
+min. 515.65
+max: 738.43
+median: 537.43
+mean: 570.57
+std: 76.55
+var: 5860.03
+### Error rate ###
+num: 10
+min. 0.0
+max: 0.09
+median: 0.01
+mean: 0.02
+std: 0.03
+var: 0.0

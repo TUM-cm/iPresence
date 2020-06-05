@@ -1,0 +1,45 @@
+### Only integer array
+
+10 us, 10.000 values = 100.000 us
+num values:  999
+mean (us):  100089.47047
+median (us):  100071.0
+std (us):  64.9949322647
+min (us):  99970
+max (us):  100509
+range of changes (us):  539
+range of changes (%):  0.536270383747
+---------------------------------
+20 us, 10.000 values = 200.000 us
+num values:  999
+mean (us):  200000.001001
+median (us):  200000.0
+std (us):  9.94695636564
+min (us):  199915
+max (us):  200081
+range of changes (us):  166
+range of changes (%):  0.0829663986086
+---------------------------------
+
+### Struct array: voltage and relative time
+
+10 us, 10.000 values = 100.000 us
+num values:  1000
+mean (us):  100175.719
+median (us):  100160.0
+std (us):  69.1849697478
+min (us):  100010
+max (us):  100541
+range of changes (us):  531
+range of changes (%):  0.528142747735
+---------------------------------
+20 us, 10.000 values = 200.000 us
+num values:  1000
+mean (us):  200006.898
+median (us):  200001.0
+std (us):  12.6979366828
+min (us):  199962
+max (us):  200041
+range of changes (us):  79
+range of changes (%):  0.0394919041596
+---------------------------------

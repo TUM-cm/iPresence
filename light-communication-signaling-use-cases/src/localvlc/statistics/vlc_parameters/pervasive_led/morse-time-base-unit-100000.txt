@@ -1,0 +1,18 @@
+morse-time-base-unit-100000
+
+### Throughput ###
+num: 8
+min. 170.95
+max: 754.57
+median: 609.2
+mean: 522.61
+std: 209.09
+var: 43719.08
+### Error rate ###
+num: 8
+min. 0.0
+max: 0.01
+median: 0.0
+mean: 0.0
+std: 0.0
+var: 0.0

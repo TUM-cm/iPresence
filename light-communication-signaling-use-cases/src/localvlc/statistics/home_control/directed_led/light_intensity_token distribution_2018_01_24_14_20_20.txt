@@ -1,0 +1,7 @@
+num: 566
+min. 2.79
+max: 7.3
+median: 6.58
+mean: 6.08
+std: 1.11
+var: 1.24

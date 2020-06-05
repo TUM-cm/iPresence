@@ -1,0 +1,53 @@
+### led: directed_led
+token period: 5
+# authorization
+success: 4334, ratio: 0.8668
+fail: 666, ratio: 0.1332
+# duration success
+num: 4334
+min. 0.15
+max: 0.56
+median: 0.17
+mean: 0.17
+std: 0.01
+var: 0.0
+----------------------------------
+token period: 10
+# authorization
+success: 4665, ratio: 0.933
+fail: 335, ratio: 0.067
+# duration success
+num: 4665
+min. 0.15
+max: 0.56
+median: 0.17
+mean: 0.17
+std: 0.01
+var: 0.0
+----------------------------------
+token period: 30
+# authorization
+success: 4881, ratio: 0.9762
+fail: 119, ratio: 0.0238
+# duration success
+num: 4881
+min. 0.16
+max: 0.55
+median: 0.17
+mean: 0.17
+std: 0.01
+var: 0.0
+----------------------------------
+token period: 60
+# authorization
+success: 4942, ratio: 0.9884
+fail: 58, ratio: 0.0116
+# duration success
+num: 4942
+min. 0.15
+max: 0.55
+median: 0.17
+mean: 0.17
+std: 0.01
+var: 0.0
+----------------------------------

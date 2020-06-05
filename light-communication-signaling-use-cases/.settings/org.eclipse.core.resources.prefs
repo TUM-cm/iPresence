@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/coupling/device_grouping/offline/sampling_time.py=utf-8
+encoding//src/coupling/device_grouping/offline/similarity_metrics.py=utf-8
+encoding//src/coupling/tvgl/paper/SynGraphPN.py=utf-8
+encoding//src/coupling/tvgl/paper/financeInference.py=utf-8
+encoding//src/coupling/utils/packages/dtaidistance_util.py=UTF-8
+encoding//src/demo_wifi_login/gui_access_point.py=utf-8
+encoding//src/demo_wifi_login/user_interface_access_point.py=utf-8
+encoding//src/light_broadcasts/fakebeacon.py=UTF-8
+encoding//src/localvlc/performance/data_buffering.py=utf-8
+encoding//src/localvlc/performance/energy_openvlc_localvlc.py=utf-8
+encoding//src/localvlc/performance/latency_statistics.py=utf-8
+encoding//src/localvlc/performance/orientation_statistics.py=utf-8
+encoding//src/localvlc/performance/parameter_statistics.py=utf-8
+encoding//src/localvlc/performance/plot_morse_code.py=utf-8
+encoding//src/send_light/old/gpio.py=utf-8
+encoding//src/utils/plot.py=utf-8

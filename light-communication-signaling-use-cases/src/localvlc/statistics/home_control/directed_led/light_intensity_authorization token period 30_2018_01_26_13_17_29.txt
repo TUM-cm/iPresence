@@ -1,0 +1,7 @@
+num: 1583
+min. 9.33
+max: 14.04
+median: 12.97
+mean: 12.86
+std: 0.63
+var: 0.4

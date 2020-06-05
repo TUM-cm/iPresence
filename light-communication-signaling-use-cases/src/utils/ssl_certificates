@@ -1,0 +1,26 @@
+# Common name: localhost or IP address (e.g., 131.159.24.130)
+
+## Option 1
+openssl req -sha256 -new -x509 -days 1825 -extensions v3_ca -keyout ca.key -out ca.crt
+openssl req -sha256 -new -newkey rsa:2048 -days 1825 -nodes -x509 -keyout server.key
+openssl req -sha256 -out server.csr -key server.key -new
+openssl x509 -req -sha256 -in server.csr -CA ca.crt -CAkey ca.key -CAcreateserial -out server.crt -days 1825
+
+## Option 2
+openssl genrsa -aes256 -passout pass:SuperSecretPassword -out server.key 2048
+openssl req -new -key server.key -passin pass:SuperSecretPassword -out server.csr
+openssl x509 -req -passin pass:SuperSecretPassword -days 1024 -in server.csr -signkey server.key -out server.crt
+openssl rsa -in server.key -out server_no_pass.key -passin pass:SuperSecretPassword
+mv server_no_pass.key server.key
+
+## PEM files
+cat server.crt server.key > server.pem
+cat server.crt > public.pem
+
+server.pem (private key and self-signed certificate together)
+public.pem (the servers public certificate by itself)
+
+# error: SSL is not available if the OpenSSL library is not installed
+sudo apt-get install python-dev libffi-dev libssl-dev
+pip install --upgrade setuptools
+pip install pyopenssl (takes a while)

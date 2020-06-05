@@ -1,0 +1,15 @@
+## Steps receive light
+
+1. cd receive_light
+2. sudo -s
+3. make
+4. make interface
+5. insmod receive_light_kernel.ko
+6. src/ python -m receive_light.light_control
+
+## Steps send light
+
+1. cd send_light
+2. sudo -s
+3. make
+4. insmod send_light_kernel.ko action=send device=high time_base_unit=100000 data='"hello world"'

@@ -1,0 +1,41 @@
+### Without glass
+throughput
+num: 10
+min. 519.2
+max: 519.27
+median: 519.24
+mean: 519.24
+std: 0.03
+var: 0.0
+---
+error
+num: 10
+min. 0.0
+max: 0.0
+median: 0.0
+mean: 0.0
+std: 0.0
+var: 0.0
+---
+### With glass
+throughput
+num: 10
+min. 515.59
+max: 519.3
+median: 519.19
+mean: 518.47
+std: 1.44
+var: 2.06
+---
+error
+num: 10
+min. 0.0
+max: 0.0
+median: 0.0
+mean: 0.0
+std: 0.0
+var: 0.0
+---
+### Ratio
+throughput: 1.0
+error: 1

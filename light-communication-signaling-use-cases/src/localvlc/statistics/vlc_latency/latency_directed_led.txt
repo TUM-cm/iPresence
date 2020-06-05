@@ -1,0 +1,10 @@
+latency_directed_led
+
+### Latency ###
+num: 10
+min. 0.54
+max: 0.58
+median: 0.58
+mean: 0.58
+std: 0.01
+var: 0.0

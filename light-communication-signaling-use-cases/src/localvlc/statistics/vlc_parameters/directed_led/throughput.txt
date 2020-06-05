@@ -1,0 +1,8 @@
+morse_sampling_50000_time_base_unit_130000
+num: 10
+min. 514.7
+max: 519.22
+median: 518.71
+mean: 517.68
+std: 1.94
+var: 3.76

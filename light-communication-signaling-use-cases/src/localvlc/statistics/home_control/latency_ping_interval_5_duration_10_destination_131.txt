@@ -1,0 +1,7 @@
+num: 118
+min. 0.21
+max: 0.29
+median: 0.24
+mean: 0.24
+std: 0.02
+var: 0.0
